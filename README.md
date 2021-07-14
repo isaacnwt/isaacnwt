@@ -1,6 +1,6 @@
 ### Hello, world! 👽
 
-####  Welcome to my portfolio
+####  Welcome to my profile!
 
 
 - 📚 Here you can find some of my studing projects
