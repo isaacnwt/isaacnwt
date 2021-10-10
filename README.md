@@ -5,16 +5,21 @@
 
 - 📚 Here you can find some of my studing projects
 - 💻 I'm a lover of technology and inovation
-- 🎸 In my free time I play guitar
+- 🌱 Developer of management and simulation softwares to sugarcane processing mills
+- 🏃🏾‍♂️ Just starting...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnwt&layout=compact&theme=radical)
 
 #### Skills
 
 ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+
+
 
 #### Social
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/isaacnwt)](https://github.com/isaacnwt)
