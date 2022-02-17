@@ -1,4 +1,4 @@
-### <script>alert('Hello, World!');</script> 👽
+### <script>alert('Hello, World!');</script>
 
 ####  Welcome to my profile!
 
