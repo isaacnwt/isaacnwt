@@ -6,7 +6,7 @@
 - 📚 Here you can find some of my studing projects
 - 💻 I'm a lover of technology and inovation
 - 🌱 Operational developer of planning and management softwares to sugarcane processing mills
-- 🏃🏾‍♂️ Just starting...
+- 🏃🏾‍♂️ Motivated by challenges. Just starting...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnwt&layout=compact&theme=radical)
 
@@ -25,11 +25,11 @@
 
 
 #### Social
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:isaacnwt.dev@gmail.com)](mailto:isaacnwt.dev@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/isaacnwt)](https://github.com/isaacnwt)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-newton-andrade-9b67b01b7/)](https://www.linkedin.com/in/isaacnwt-andrade/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/isaac.nwt/)](https://www.instagram.com/isaac.nwt/)
-[![Email Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:isaacnewton02@hotmail.com)](mailto:isaacnewton02@hotmail.com)
 
 
-
+  
 
