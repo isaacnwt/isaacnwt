@@ -5,7 +5,7 @@
 
 - 📚 Here you can find some of my studing projects
 - 💻 I'm a lover of technology and inovation
-- 🌱 Operational developer of planning and management softwares to sugarcane processing mills
+- 🌱 Data management intern of planning and management softwares to sugarcane processing mills
 - 🏃🏾‍♂️ Motivated by challenges. Just starting...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnwt&layout=compact&theme=radical)
