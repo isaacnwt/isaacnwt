@@ -1,8 +1,8 @@
 # Hi, everyone!  Welcome to my profile!
 
-On this page, you will find several projects that I have developed during my journey as a developer. 
+Here you can find some projects I've been working during my journey as a dev. 
 
-Currently, I am completing an internship at Serasa Experian, where I am working hard to become a web developer.
+Currently, I am on an internship at Serasa Experian, where I am working hard to become a web developer.
 
 ## Technologies I've Worked With...
 <div style="display: inline_block"><br>
@@ -11,6 +11,7 @@ Currently, I am completing an internship at Serasa Experian, where I am working 
   <img align="center" alt="isaacnwt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="isaacnwt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="isaacnwt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="isaacnwt-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="isaacnwt-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="isaacnwt-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="isaacnwt-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
