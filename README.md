@@ -2,7 +2,7 @@
 
 Here you can find some projects I've been working during my journey as a dev. 
 
-Currently, I am on an internship at Serasa Experian, where I am working hard to become a web developer.
+Currently, I'm on an internship at Serasa Experian, where I am working hard to become a web developer.
 
 ## Technologies I've Worked With...
 <div style="display: inline_block"><br>
@@ -19,6 +19,8 @@ Currently, I am on an internship at Serasa Experian, where I am working hard to 
   <img align="center" alt="isaacnwt-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="isaacnwt-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+<br>
+At the moment, I'm in the third year of my undergraduate degree in Systems Analysis and Development, and I've been exposed to all those techs during my course. But right now, I'm focusing on mastering Angular + Spring for web apps.
 
 ## My Social...
 <div> 
