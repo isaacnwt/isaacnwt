@@ -2,7 +2,7 @@
 
 Here you can find some projects I've been doing during my graduation in Software Analisys and Development at Federal Institute of São Paulo.
 
-Currently, I'm working as Jr. Full Stack Developer at Serasa Experian, focusing in Angular/Spring stack.
+Currently, I'm working as Full Stack Developer at Serasa Experian, focusing in Angular/Spring stack.
 
 ## Technologies I've Worked With...
 <div style="display: inline_block"><br>
