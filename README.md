@@ -9,7 +9,7 @@ Currently, I'm working as Full Stack Developer at Serasa Experian, focusing in A
 ## 🚀 Tech Stack  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,nest,python,kotlin,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,python,kotlin,mongodb,mysql,git" />
 </div>
 
 ---
