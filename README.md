@@ -14,15 +14,6 @@ Currently, I'm working as Full Stack Developer at Serasa Experian, focusing in A
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacnwt&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnwt&layout=compact&theme=tokyonight" height="180em" />
-</div>
-
----
-
 ## 🌐 Connect with me  
 
 <div align="center">
